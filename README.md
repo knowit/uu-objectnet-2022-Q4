@@ -1,12 +1,13 @@
 <article lang="nb-NO">
 
-# RFC: Tiltak høsten 2022 for å gjøre web- og mobilutviklere i Knowit Objectnet flinkere på universell utforming
+# RFC: UU-prøve og UU-kursing for frontend- og mobilutviklere i Knowit Objectnet høsthalvåret 2022
 
-<i>Skrevet av fagorganisasjonen i Knowit Objectnet.</i> 
-
-Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
+<i>Foreslått av Eirik Vågeskar.</i> 
 
 Dokumentet er åpent for innspill frem til 12. september 2022.
+
+
+Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
 
 ## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
 
