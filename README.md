@@ -1,6 +1,6 @@
 <article lang="nb-NO">
 
-# RFC: UU-prøve og UU-kursing for frontend- og mobilutviklere i Knowit Objectnet høsthalvåret 2022
+# RFC: UU-prøve og UU-kursing for frontendutviklere i Knowit Objectnet høsthalvåret 2022
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
@@ -10,7 +10,7 @@ Tiltakene skal være utført senest innen juni 2023, og helst innen desember 202
 
 ## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
 
-De som utvikler web- og mobilapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
+De som utvikler webapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
 
 UU-kunnskap er et så stort konkurransefortrinn at det vel anvendt tid å bruke en time på å bevise kunnskapen når man først har tilegnet seg den.
 
@@ -28,7 +28,7 @@ De fleste vil ta denne prøven som avslutning på et UU-kurs som vi planlegger �
 
 Alle relevante utviklere må gjennomføre innen en viss frist.
 Fristen setter vi senere.
-Fagsjefene for mobil og frontend tar ansvar å følge opp gjennom vedkommendes gruppeleder.
+Fagsjefen for frontend tar ansvar å følge opp gjennom vedkommendes gruppeleder.
 
 ## Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd
 
@@ -57,14 +57,14 @@ Hvis vi får tid til å lage et «foredragsopplegg» av kurset, vil vi også til
 I så fall booker vi flere rom.
 Deltakerne kan da veksle mellom rommene etter hva de liker best.
 
-#### Fagområdesjefene for frontend og mobil har ansvaret
+#### Fagområdesjefen for frontend har ansvaret
 
-Fagområdesjefer for frontend og mobil (Eirik Vågeskar og Brynje Nordli) er ansvarlige for gjennomføringen.
-De kan delegere ansvaret dersom de ønsker.
+Fagområdesjef for frontend (Eirik Vågeskar) er ansvarlig for gjennomføringen.
+Han kan delegere ansvaret dersom han ønsker.
 
 ## Bakgrunn: Alle må kunne UU. Dette kurset er det beste alternativet vi kjenner til.
 
-### <em>Alle</em> som lager web- og mobilapper skal kunne <em>mye</em> om universell utforming
+### <em>Alle</em> som lager webapper skal kunne <em>mye</em> om universell utforming
 
 #### Lovgivning og sunn fornuft krever det
 
@@ -87,7 +87,7 @@ Ved å være flinke på UU, får vi et konkurransefortrinn.
 #### Universell utforming raser sammen om ikke alle teammedlemmer følger det
 
 I praksis er det svært vanskelig å legge ansvaret for universell utforming på et teammedlem.
-Derfor må alle som jobber som frontend-, mobil- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
+Derfor må alle som jobber som frontend- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
 
 [//]: # "For å ha god hygiene på et sykehus, må alle vaske hendene."
 
