@@ -8,6 +8,47 @@ Dokumentet er åpent for innspill frem til 12. september 2022.
 
 Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
 
+[//]: # (Regenerate this table of contents and format it using `npx markdown-toc -i README.md`)
+
+## Innholdsfortegnelse og oppsummering
+
+<!-- prettier-ignore-start -->
+
+<!-- toc -->
+
+- [Målbart utfall: Alle skal bestå en enkel kunnskapsprøve](#malbart-utfall-alle-skal-besta-en-enkel-kunnskapsprove)
+  * [Vi gjenbruker prøven for tilsvarende ansatte i det offentlige](#vi-gjenbruker-proven-for-tilsvarende-ansatte-i-det-offentlige)
+  * [Man kan ta prøven sammen med andre eller alene](#man-kan-ta-proven-sammen-med-andre-eller-alene)
+    + [Tidsfrist for å bestå](#tidsfrist-for-a-besta)
+- [Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd](#tiltak-for-a-na-malet-gjennomfore-kurs-innen-nyttar-sammen-eller-paegen-hand)
+  * [Gjennomføre kurset på egen hånd](#gjennomfore-kurset-pa-egen-hand)
+  * [Felles kurs: UU-uka](#felles-kurs-uu-uka)
+    + [På-egenhånd-i-fellesskap med mulighet for foredrag](#pa-egenhand-i-fellesskap-med-mulighet-for-foredrag)
+    + [Fagområdesjefen for frontend har ansvaret](#fagomradesjefen-for-frontend-har-ansvaret)
+- [Bakgrunn: Alle må kunne UU. Dette kurset er det beste alternativet vi kjenner til.](#bakgrunn-alle-ma-kunne-uu-dette-kurset-er-det-beste-alternativet-vi-kjenner-til)
+  * [Alle som lager webapper skal kunne mye om universell utforming](#alle-som-lager-webapper-skal-kunne-mye-om-universell-utforming)
+    + [Lovgivning og sunn fornuft krever det](#lovgivning-og-sunn-fornuft-krever-det)
+    + [UU-kunnskap er et konkurransefortrinn](#uu-kunnskap-er-et-konkurransefortrinn)
+    + [Universell utforming raser sammen om ikke alle teammedlemmer følger det](#universell-utforming-raser-sammen-om-ikke-alle-teammedlemmer-folger-det)
+  * [Kunnskapsprøven fra Universell utforming av IKT for utviklere og testledere er passende for våre formål](#kunnskapsproven-fra-universell-utforming-av-ikt-for-utviklere-og-testledere-er-passende-for-vare-formal)
+    + [Prøven er standardisert, praktisk gjennomførbar og streng nok](#proven-er-standardisert-praktisk-gjennomforbar-og-streng-nok)
+    + [Kravene til offentlige tjenester er strengere enn til private](#kravene-til-offentlige-tjenester-er-strengere-enn-til-private)
+  * [Kurset Universell utforming av IKT for utviklere og testledere er passende for utviklerne våre](#kurset-universell-utforming-av-ikt-for-utviklere-og-testledere-er-passende-for-utviklerne-vare)
+    + [Det beste kurset fagleder for universll utforming i Knowit Experience Oslo har prøvd](#det-beste-kurset-fagleder-for-universll-utforming-i-knowit-experience-oslo-har-provd)
+    + [Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene](#eirik-vageskar-mener-kurset-er-bra-basert-pa-stikkprover-fra-modulene)
+      - [Utviklerrettet og lærerikt](#utviklerrettet-og-laererikt)
+      - [Skjønnhetsfeilene er ikke nok til å vippe det av pinnen](#skjonnhetsfeilene-er-ikke-nok-til-a-vippe-det-av-pinnen)
+  * [Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig](#tidspunktene-for-uu-uka-er-valgt-for-a-ha-nok-tid-og-kollidere-minst-mulig)
+    + [12,5 timer er tilstrekkelig til å ta kurset](#125-timer-er-tilstrekkelig-til-a-ta-kurset)
+    + [Deltakerne får lunsjen til å prate](#deltakerne-far-lunsjen-til-a-prate)
+    + [Mange har mye fagtid i november](#mange-har-mye-fagtid-i-november)
+    + [Folk rekker å gi beskjed til prosjektet sitt](#folk-rekker-a-gi-beskjed-til-prosjektet-sitt)
+    + [Kolliderer ikke med andre kjente arrangementer](#kolliderer-ikke-med-andre-kjente-arrangementer)
+
+<!-- tocstop -->
+
+<!-- prettier-ignore-end -->
+
 ## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
 
 De som utvikler webapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
@@ -91,7 +132,7 @@ Derfor må alle som jobber som frontend- og fullstack-programmerer ha en viss me
 
 [//]: # "For å ha god hygiene på et sykehus, må alle vaske hendene."
 
-### Kunnskapsprøven fra <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er passende for våre formål
+### Kunnskapsprøven fra <cite>Universell utforming av IKT for utviklere og testledere<cite> er passende for våre formål
 
 #### Prøven er standardisert, praktisk gjennomførbar og streng nok
 
@@ -109,7 +150,7 @@ UU-kravene som stilles i det offentlige er strengere enn i private næringsliv.
 Prøven regnes som god nok for statens egne utviklere.
 Da er den god nok for utviklerne i Knowit Objectnet, enten vi skal ha oppdrag i det private eller det offentlige.
 
-### Kurset <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er passende for utviklerne våre
+### Kurset <cite>Universell utforming av IKT for utviklere og testledere</cite> er passende for utviklerne våre
 
 #### Det beste kurset fagleder for universll utforming i Knowit Experience Oslo har prøvd
 
