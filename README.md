@@ -6,7 +6,6 @@
 
 Dokumentet er åpent for innspill frem til 12. september 2022.
 
-
 Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
 
 ## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
@@ -135,7 +134,7 @@ Fra modul 3 og ut føles mesteparten av informasjonen relevant for arbeid han gj
 Det er ingen temaer som lett kunne vært kuttet bort.
 
 For eksempel er han fornøyd med forklaringen av hvordan ulike HTML-elementer får visse ARIA-roller. 
-En annen positiv overraskelse var en video om hvordan Stortingets nettsider fremstår når man bruer skjermleser.
+En annen positiv overraskelse var en video om hvordan Stortingets nettsider fremstår når man bruker skjermleser.
 
 <iframe src="https://player.vimeo.com/video/662995439?h=f1720e5d61" width="640" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><p><a href="https://vimeo.com/662995439">Hvordan oppleves offentlige nettsider for personer med funksjonsnedsettelser?</a> from <a href="https://vimeo.com/user162346957">Inklud</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
