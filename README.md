@@ -2,7 +2,7 @@
 
 # RFC: UU-prøve og UU-kursing for frontend- og mobilutviklere i Knowit Objectnet høsthalvåret 2022
 
-<i>Foreslått av Eirik Vågeskar.</i> 
+<i>Foreslått av Eirik Vågeskar.</i>
 
 Dokumentet er åpent for innspill frem til 12. september 2022.
 
@@ -38,7 +38,6 @@ Dersom man ikke har kunnskap nok til å bestå prøven, går man gjennom <cite>[
 
 Dersom man ikke kan eller vil delta på et felles kurs, kan man gjennomføre kurset når man selv finner tid.
 
-
 ### Felles kurs: UU-uka
 
 <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er egentlig ment for å tas på egen hånd.
@@ -54,7 +53,7 @@ Grunntilbudet vi ser for oss under UU-uka er at deltakerne kan gjennomføre «eg
 Kurslederne oppsummerer og tar spørsmål underveis og på slutten av øktene.
 Dette er en læringsmodus de fleste er vant med fra workshops.
 
-Hvis vi får tid til å lage et «foredragsopplegg» av kurset, vil vi også tilby dette. 
+Hvis vi får tid til å lage et «foredragsopplegg» av kurset, vil vi også tilby dette.
 I så fall booker vi flere rom.
 Deltakerne kan da veksle mellom rommene etter hva de liker best.
 
@@ -90,7 +89,7 @@ Ved å være flinke på UU, får vi et konkurransefortrinn.
 I praksis er det svært vanskelig å legge ansvaret for universell utforming på et teammedlem.
 Derfor må alle som jobber som frontend-, mobil- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
 
-[//]: # (For å ha god hygiene på et sykehus, må alle vaske hendene.)
+[//]: # "For å ha god hygiene på et sykehus, må alle vaske hendene."
 
 ### Kunnskapsprøven fra <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er passende for våre formål
 
@@ -102,7 +101,7 @@ Som nevnt inneholder kunnskapsprøven som avslutter <cite>[Universell utforming 
 - Den er utformet av staten selv for å oppfylle krav staten selv har satt.
 - Den krever kunnskaper betydelig langt ut over trivielle.
 
-Som teoriprøven for førerkortet er prøven kanskje banal, men likefullt et kvalitetsstempel. 
+Som teoriprøven for førerkortet er prøven kanskje banal, men likefullt et kvalitetsstempel.
 
 #### Kravene til offentlige tjenester er strengere enn til private
 
@@ -118,37 +117,36 @@ Silje Tjomlid er fagleder for universell utforming i Knowit Experience Oslo.
 Det var hun som først anbefalte oss kurset <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite>.
 
 > Jeg har brukt mye tid på nettopp kursing, hva som finnes. Har tatt kursene selv, og vet hvilke som er gode. … <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er veldig bra og omfattende.
-> 
+>
 > – Silje Tjomlid i direktemeldinger med Eirik Vågeskar på Slack
 
 #### Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene
 
 Eirik Vågeskar er fagområdesjef for frontend og frontendutvikler i Knowit Objectnet Oslo.
 Han har tatt deler av <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> etter Siljes anbefaling.
-Han mener kurset er bra nok til at det er verdt utviklernes tid. 
+Han mener kurset er bra nok til at det er verdt utviklernes tid.
 
 ##### Utviklerrettet og lærerikt
 
 Eirik er positivt overrasket over hvor nyttig kurset føles, til tross for at det er veldig langt.
-Fra modul 3 og ut føles mesteparten av informasjonen relevant for arbeid han gjør daglig. 
+Fra modul 3 og ut føles mesteparten av informasjonen relevant for arbeid han gjør daglig.
 Det er ingen temaer som lett kunne vært kuttet bort.
 
-For eksempel er han fornøyd med forklaringen av hvordan ulike HTML-elementer får visse ARIA-roller. 
+For eksempel er han fornøyd med forklaringen av hvordan ulike HTML-elementer får visse ARIA-roller.
 En annen positiv overraskelse var en video om hvordan Stortingets nettsider fremstår når man bruker skjermleser.
 
 <iframe src="https://player.vimeo.com/video/662995439?h=f1720e5d61" width="640" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><p><a href="https://vimeo.com/662995439">Hvordan oppleves offentlige nettsider for personer med funksjonsnedsettelser?</a> from <a href="https://vimeo.com/user162346957">Inklud</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ##### Skjønnhetsfeilene er ikke nok til å vippe det av pinnen
 
-Kurset har noen skjønnhetsfeil. 
+Kurset har noen skjønnhetsfeil.
 De to første modulene er gjentakelse av informasjon man har hørt i «alle» sammenhenger der UU blir nevnt.
 Tekstene er i overkant ordrike.
 Skrivefeilene er så hyppige at teksten <em>umulig</em> kan ha gjennomgått en tilstrekkelig språkvask.
 
-
 Dette skjemmer innholdet, men er nok til at vi burde lete etter bedre alternativer.
 
-### Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig 
+### Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig
 
 Som nevnt skal vi avholde UU-uka uke 45 (7.&ndash;11. november) er et godt tidspunkt for UU-uka.
 
