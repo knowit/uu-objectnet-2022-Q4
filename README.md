@@ -1,6 +1,6 @@
 <article lang="nb-NO">
 
-# RFC: UU-prøve og UU-kursing for frontendutviklere i Knowit Objectnet høsthalvåret 2022
+# RFC: Frivillig UU-kursing for frontendutviklere i Knowit Objectnet høsthalvåret 2022
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
