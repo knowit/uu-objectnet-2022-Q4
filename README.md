@@ -250,7 +250,7 @@ Arbeidsmengden i <cite>[Universell utforming av IKT for utviklere og testledere]
 
 #### Deltakerne får lunsjen til å prate
 
-Det er også en fordel å ha det før lunsjen, slik at deltakerne kan diskutere innholdet med hverandre i lunsjen.
+Det er også en fordel å ha kursmøtene før lunsjen, slik at deltakerne kan diskutere innholdet med hverandre i lunsjen.
 
 #### Mange har mye fagtid i november
 
