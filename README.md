@@ -1,6 +1,6 @@
 <article lang="nb-NO">
 
-# RFC: Frivillig UU-kursing for frontendutviklere i Knowit Objectnet høsthalvåret 2022
+# RFC: Frivillig kursing og prøve i universell utforming for webutviklere i Knowit Objectnet høsthalvåret 2022
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
@@ -33,7 +33,7 @@ Tiltakene skal være utført senest innen juni 2023, og helst innen desember 202
     + [Prøven er standardisert, praktisk gjennomførbar og streng nok](#proven-er-standardisert-praktisk-gjennomforbar-og-streng-nok)
     + [Kravene til offentlige tjenester er strengere enn til private](#kravene-til-offentlige-tjenester-er-strengere-enn-til-private)
   * [Kurset Universell utforming av IKT for utviklere og testledere er passende for utviklerne våre](#kurset-universell-utforming-av-ikt-for-utviklere-og-testledere-er-passende-for-utviklerne-vare)
-    + [Det beste kurset fagleder for universll utforming i Knowit Experience Oslo har prøvd](#det-beste-kurset-fagleder-for-universll-utforming-i-knowit-experience-oslo-har-provd)
+    + [Det beste kurset fagleder for universell utforming i Knowit Experience Oslo har prøvd](#det-beste-kurset-fagleder-for-universell-utforming-i-knowit-experience-oslo-har-provd)
     + [Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene](#eirik-vageskar-mener-kurset-er-bra-basert-pa-stikkprover-fra-modulene)
       - [Utviklerrettet og lærerikt](#utviklerrettet-og-laererikt)
       - [Skjønnhetsfeilene er ikke nok til å vippe det av pinnen](#skjonnhetsfeilene-er-ikke-nok-til-a-vippe-det-av-pinnen)
@@ -75,7 +75,7 @@ Dersom man ikke kan eller vil delta på et felles kurs, kan man gjennomføre kur
 ### Felles kurs: UU-uka
 
 <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> er egentlig ment for å tas på egen hånd.
-Vi tror at mange vil bli mer motivert dersom vi gjennomfører kurset i fellesskap.
+Vi tror at mange vil bli mer motivert av å ta kurset sammen med andre.
 For å gjøre det til en begivenhet, kaller vi kurset UU-uka.
 
 Kurset vil finne sted på formiddagene i uke 45, i tidsrommet 9:00–11:30.
@@ -105,7 +105,8 @@ Han kan delegere ansvaret dersom han ønsker.
 Digitale tjenester som følger universell utforming (UU) blir stadig viktigere:
 
 - Ny lovgivning påkrever at tjenester er universelt utformede.
-- Produktene vi lager er ofte en erstatning for en eldre, ikke-digital tjeneste. Erstatninger bør <em>i det minste</em> kunne brukes av alle som kunne brukt en ikke-digital versjon, og helst enda flere.
+- Produktene vi lager er ofte en erstatning for en eldre, ikke-digital tjeneste.
+  Erstatninger bør <em>i det minste</em> kunne brukes av alle som kunne brukt en ikke-digital versjon – og helst enda flere.
 
 Det er viktig at alle frontendutviklere i Knowit leverer kode som oppfyller de lovgitte kravene til universell utforming.
 Ellers bryter det vi leverer loven på kundens vegne.
@@ -123,13 +124,12 @@ Ved å være flinke på UU, får vi et konkurransefortrinn.
 I praksis er det svært vanskelig å legge ansvaret for universell utforming på et teammedlem.
 Derfor må alle som jobber som frontend- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
 
-[//]: # "For å ha god hygiene på et sykehus, må alle vaske hendene."
-
 ### Kunnskapsprøven fra <cite>Universell utforming av IKT for utviklere og testledere<cite> er passende for våre formål
 
 #### Prøven er standardisert, praktisk gjennomførbar og streng nok
 
-Som nevnt inneholder kunnskapsprøven som avslutter <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> 40 spørsmål. Den har flere andre.
+Som nevnt inneholder kunnskapsprøven som avslutter <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> 40 spørsmål. 
+Den har flere andre fordeler:
 
 - Den er mulig å gjennomføre med et stort antall mennesker på kort tid.
 - Den er utformet av staten selv for å oppfylle krav staten selv har satt.
@@ -145,7 +145,7 @@ Da er den god nok for utviklerne i Knowit Objectnet, enten vi skal ha oppdrag i 
 
 ### Kurset <cite>Universell utforming av IKT for utviklere og testledere</cite> er passende for utviklerne våre
 
-#### Det beste kurset fagleder for universll utforming i Knowit Experience Oslo har prøvd
+#### Det beste kurset fagleder for universell utforming i Knowit Experience Oslo har prøvd
 
 Silje Tjomlid er fagleder for universell utforming i Knowit Experience Oslo.
 Det var hun som først anbefalte oss kurset <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite>.
@@ -176,7 +176,7 @@ De to første modulene er gjentakelse av informasjon man har hørt i «alle» sa
 Tekstene er i overkant ordrike.
 Skrivefeilene er så hyppige at teksten <em>umulig</em> kan ha gjennomgått en tilstrekkelig språkvask.
 
-Dette skjemmer innholdet, men er nok til at vi burde lete etter bedre alternativer.
+Dette skjemmer innholdet, men er nok til at vi <em>må</em> lete etter bedre alternativer.
 
 ### Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig
 
