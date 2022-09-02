@@ -59,7 +59,7 @@ Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning p
 
 <!-- toc -->
 
-- [Målbart utfall: Alle skal bestå en enkel kunnskapsprøve](#malbart-utfall-alle-skal-besta-en-enkel-kunnskapsprove)
+- [Målbart utfall: Alle deltakere skal bestå en enkel kunnskapsprøve](#malbart-utfall-alle-deltakere-skal-besta-en-enkel-kunnskapsprove)
   * [Vi gjenbruker prøven for tilsvarende ansatte i det offentlige](#vi-gjenbruker-proven-for-tilsvarende-ansatte-i-det-offentlige)
   * [Man kan ta prøven sammen med andre eller alene](#man-kan-ta-proven-sammen-med-andre-eller-alene)
 - [Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller på egen hånd](#tiltak-for-a-na-malet-gjennomfore-kurs-innen-nyttar-sammen-eller-pa-egen-hand)
@@ -92,7 +92,7 @@ Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning p
 
 <!-- prettier-ignore-end -->
 
-## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
+## Målbart utfall: Alle deltakere skal bestå en enkel kunnskapsprøve
 
 De som utvikler mobil- og webapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
 
