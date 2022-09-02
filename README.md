@@ -110,10 +110,10 @@ Digitale tjenester som følger universell utforming (UU) blir stadig viktigere:
 Det er viktig at alle frontendutviklere i Knowit leverer kode som oppfyller de lovgitte kravene til universell utforming.
 Ellers bryter det vi leverer loven på kundens vegne.
 
+#### UU-kunnskap er et konkurransefortrinn
+
 Store deler av Norges befolkning trenger universelt utformede tjenester.
 En tjeneste som er universelt utformet, har et større grunnlag for å tjene penger.
-
-#### UU-kunnskap er et konkurransefortrinn
 
 Fordi kundene våre er klar over de lovgitte kravene, etterspør de UU-kompetanse.
 Ved å være flinke på UU, får vi et konkurransefortrinn.
