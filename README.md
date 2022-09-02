@@ -42,6 +42,15 @@ Alle i Objectnet har 8 timer fagtid de kan bruke på det.
 Det eneste som gjenstår å se er om vi har valgt et kurs som deltakerne opplever som nyttig.
 Dersom kurset ikke faller i smak, må vi finne noe bedre.
 
+### Ta kontakt med Eirik Vågeskar for forslag og forespørsler
+
+Du som leser dette:
+Kanskje vet du om et bedre kurs enn det vi planlegger å bruke.
+Kanskje vil du arrangere et eget kurs i tilknytning til dette.
+Kanskje kjenner du noen som bør delta, men som ikke jobber i Knowit Objectnet.
+
+Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning på det.
+
 [//]: # "Regenerate this table of contents and format it using `npx markdown-toc -i README.md`"
 
 ## Innholdsfortegnelse
