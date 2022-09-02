@@ -18,7 +18,6 @@ Hovedmålgruppen er webutviklere, men kurset er åpent for alle ansatte.
 Kurset gjennomføres som en «Topptur» (et navn vi bruker om interne kurs i Objectnet).
 
 Vi bruker et kurs som man _kan_ ta alene.
-Hvis man ønsker eller er nødt til å ta kurset alene, kan man det.
 Siden mange foretrekker å lære sammen med andre, har vi også et tilbud om å gjennomføre kurset i fellesskap.
 Felles gjennomføring skjer på formiddagene i uke 45 (7.–11. november) 2022.
 
