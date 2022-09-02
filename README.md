@@ -29,7 +29,7 @@ Hvis man har nok kunnskap til å bestå prøven uten kursing, kan man selvsagt t
 
 ### Kurset er frivillig; webutviklerne vet selv om de trenger det
 
-Både kurset og prøven frivillig.
+Både kurset og prøven er frivillig.
 
 Vi vet at de ansatte i Knowit Objectnet legger mye stolthet i fagkunnskapen sin.
 Alle webutviklere i Knowit Objectnet er kjent med at universell utforming er et konkurransefortrinn for en selv og for firmaet.
@@ -53,7 +53,7 @@ Dersom kurset ikke faller i smak, må vi finne noe bedre.
 - [Målbart utfall: Alle skal bestå en enkel kunnskapsprøve](#malbart-utfall-alle-skal-besta-en-enkel-kunnskapsprove)
   * [Vi gjenbruker prøven for tilsvarende ansatte i det offentlige](#vi-gjenbruker-proven-for-tilsvarende-ansatte-i-det-offentlige)
   * [Man kan ta prøven sammen med andre eller alene](#man-kan-ta-proven-sammen-med-andre-eller-alene)
-- [Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd](#tiltak-for-a-na-malet-gjennomfore-kurs-innen-nyttar-sammen-eller-paegen-hand)
+- [Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller på egen hånd](#tiltak-for-a-na-malet-gjennomfore-kurs-innen-nyttar-sammen-eller-pa-egen-hand)
   * [Gjennomføre kurset på egen hånd](#gjennomfore-kurset-pa-egen-hand)
   * [Felles kurs: UU-uka](#felles-kurs-uu-uka)
     + [På-egenhånd-i-fellesskap med mulighet for foredrag](#pa-egenhand-i-fellesskap-med-mulighet-for-foredrag)
@@ -91,7 +91,7 @@ UU-kunnskap er et så stort konkurransefortrinn at det vel anvendt tid å bruke 
 
 ### Vi gjenbruker prøven for tilsvarende ansatte i det offentlige
 
-[Konsulentfirmaet Inklud](https://inklud.no) har laget kurset <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> på vegne av <abbr title="Direktoratet for forvaltning og økonomistyring">DFØ</abbr>.
+[Konsulentfirmaet Inklud](https://inklud.no) har laget kurset <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> på vegne av Direktoratet for forvaltning og økonomistyring (DFØ).
 Kurset er rettet mot utviklere og testledere i det offentlige.
 Kurset ender i en kunnskapsprøve med 40 flervalgsspørsmål.
 
@@ -99,7 +99,7 @@ Kurset ender i en kunnskapsprøve med 40 flervalgsspørsmål.
 
 De fleste vil ta denne prøven som avslutning på et UU-kurs som vi planlegger å arrangere. Hvis man kan mye om UU fra før og er usikker på om man trenger opplæringen, kan man gjennomføre prøven på egen hånd.
 
-## Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd
+## Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller på egen hånd
 
 Dersom man ikke har kunnskap nok til å bestå prøven, går man gjennom <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite>.
 
