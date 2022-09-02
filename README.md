@@ -71,6 +71,7 @@ Dersom kurset ikke faller i smak, må vi finne noe bedre.
     + [Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene](#eirik-vageskar-mener-kurset-er-bra-basert-pa-stikkprover-fra-modulene)
       - [Utviklerrettet og lærerikt](#utviklerrettet-og-laererikt)
       - [Skjønnhetsfeilene er ikke nok til å vippe det av pinnen](#skjonnhetsfeilene-er-ikke-nok-til-a-vippe-det-av-pinnen)
+  * [Et selvlæringkurs kan være mindre morsomt enn live-kurs, men mer fleksibelt](#et-selvlaeringkurs-kan-vaere-mindre-morsomt-enn-live-kurs-men-mer-fleksibelt)
   * [Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig](#tidspunktene-for-uu-uka-er-valgt-for-a-ha-nok-tid-og-kollidere-minst-mulig)
     + [12,5 timer er tilstrekkelig til å ta kurset](#125-timer-er-tilstrekkelig-til-a-ta-kurset)
     + [Deltakerne får lunsjen til å prate](#deltakerne-far-lunsjen-til-a-prate)
@@ -162,7 +163,7 @@ Derfor må alle som jobber som frontend- og fullstack-programmerer ha en viss me
 
 #### Prøven er standardisert, praktisk gjennomførbar og streng nok
 
-Som nevnt inneholder kunnskapsprøven som avslutter <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> 40 spørsmål. 
+Som nevnt inneholder kunnskapsprøven som avslutter <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> 40 spørsmål.
 Den har flere andre fordeler:
 
 - Den er mulig å gjennomføre med et stort antall mennesker på kort tid.
@@ -211,6 +212,23 @@ Tekstene er i overkant ordrike.
 Skrivefeilene er så hyppige at teksten <em>umulig</em> kan ha gjennomgått en tilstrekkelig språkvask.
 
 Dette skjemmer innholdet, men er nok til at vi <em>må</em> lete etter bedre alternativer.
+
+### Et selvlæringkurs kan være mindre morsomt enn live-kurs, men mer fleksibelt
+
+Målet med dette kurstilbudet vi beskriver i dette dokumentet har vært å få på plass et grunntilbud til alle som er motiverte – uavhengig læringsform og tilgjengelig tid.
+En annen fordel med et selvlæringskurs er at deltakerne kan tilpasse tempoet etter hvor vanskelig de synes materialet er.
+Det vil også være mulig for folk som begynner etter at kurset ble avholdt å «ta kurset» ved å gjennomføre det på eget initiativ.
+
+Blant fagledelsen har vi også snakket om å holde et live-kurs, altså et kurs der man gjennomfører opplæringen gjennom muntlige presentasjoner fysisk og/eller på nett.
+Vi har også snakket om å hente inn kursholdere utenfra som kan holde kurset.
+Det positive med et slike kurs, er at de fleste opplever dem som mer engasjerende enn et nettsteds-kurs.
+Ulempen med et live-kurs er at det krever at konsulenten har anledning til å ta fri på det nevnte tidspunktet.
+Nyansatte vil ikke kunne ha glede av kurset.
+Å hente inn eksterne kursholdere eller lage eget materiale krever tid fra arrangørene, også dersom man henter inn folk fra utenfor Knowit Objectnet.
+Av disse grunnene har vi prioritert å finne et selvlæringstilbud, selv om noen vil savne et live-kurs.
+
+Kanskje rekker vi å få på plass et kurs med en fysisk kursholder før utgangen av året.
+I så fall beholder vi «selvlæringskurset» som et tilbud til de som ikke har mulighet til å delta på et live-kurs.
 
 ### Tidspunktene for UU-uka er valgt for å ha nok tid og kollidere minst mulig
 
