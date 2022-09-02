@@ -15,6 +15,7 @@ Tiltakene skal være utført senest innen juni 2023, og helst innen desember 202
 Dette dokumentet beskriver et kurstilbud til de ansatte i Knowit Objectnet.
 Kursets tema er «universell utforming for webutviklere».
 Hovedmålgruppen er webutviklere, men kurset er åpent for alle ansatte.
+Kurset gjennomføres som en «Topptur» (et navn vi bruker om interne kurs i Objectnet).
 
 Vi bruker et kurs som man _kan_ ta alene.
 Hvis man ønsker eller er nødt til å ta kurset alene, kan man det.
