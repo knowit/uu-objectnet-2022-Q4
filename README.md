@@ -1,6 +1,6 @@
 <article lang="nb-NO">
 
-# RFC: Frivillig kursing og prøve i universell utforming for webutviklere i Knowit Objectnet høsthalvåret 2022
+# Forslag til innspill: Frivillig kursing og prøve i universell utforming for utviklere i Knowit Objectnet høsthalvåret 2022
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
@@ -13,8 +13,8 @@ Tiltakene skal være utført senest innen juni 2023, og helst innen desember 202
 ### Kursing
 
 Dette dokumentet beskriver et kurstilbud til de ansatte i Knowit Objectnet.
-Kursets tema er «universell utforming for webutviklere».
-Hovedmålgruppen er webutviklere, men kurset er åpent for alle ansatte.
+Kursets tema er «universell utforming for mobil- og webutviklere».
+Hovedmålgruppen er mobil- og webutviklere, men kurset er åpent for alle ansatte.
 Kurset gjennomføres som en «Topptur» (et navn vi bruker om interne kurs i Objectnet).
 
 Vi bruker et kurs som man _kan_ ta alene.
@@ -27,12 +27,12 @@ Kurset avsluttes med en prøve.
 Prøven gir et kursbevis når man består den.
 Hvis man har nok kunnskap til å bestå prøven uten kursing, kan man selvsagt ta prøven uten å ta kurset.
 
-### Kurset er frivillig; webutviklerne vet selv om de trenger det
+### Kurset er frivillig; mobil- og webutviklerne vet selv om de trenger det
 
 Både kurset og prøven er frivillig.
 
 Vi vet at de ansatte i Knowit Objectnet legger mye stolthet i fagkunnskapen sin.
-Alle webutviklere i Knowit Objectnet er kjent med at universell utforming er et konkurransefortrinn for en selv og for firmaet.
+Alle mobil- og webutviklere i Knowit Objectnet er kjent med at universell utforming er et konkurransefortrinn for en selv og for firmaet.
 Fagledelsen har også informert om at UU-kravene er blitt skjerpet i 2022.
 
 En motivert deltaker skal kunne gjennomføre kurset:
@@ -68,7 +68,7 @@ Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning p
     + [På-egenhånd-i-fellesskap med mulighet for foredrag](#pa-egenhand-i-fellesskap-med-mulighet-for-foredrag)
     + [Fagområdesjefen for frontend har ansvaret](#fagomradesjefen-for-frontend-har-ansvaret)
 - [Bakgrunn: Alle må kunne UU. Dette kurset er det beste alternativet vi kjenner til.](#bakgrunn-alle-ma-kunne-uu-dette-kurset-er-det-beste-alternativet-vi-kjenner-til)
-  * [Alle som lager webapper skal kunne mye om universell utforming](#alle-som-lager-webapper-skal-kunne-mye-om-universell-utforming)
+  * [Alle som lager mobil- og webapper skal kunne mye om universell utforming](#alle-som-lager-mobil--og-webapper-skal-kunne-mye-om-universell-utforming)
     + [Lovgivning og sunn fornuft krever det](#lovgivning-og-sunn-fornuft-krever-det)
     + [UU-kunnskap er et konkurransefortrinn](#uu-kunnskap-er-et-konkurransefortrinn)
     + [Universell utforming raser sammen om ikke alle teammedlemmer følger det](#universell-utforming-raser-sammen-om-ikke-alle-teammedlemmer-folger-det)
@@ -77,7 +77,7 @@ Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning p
     + [Kravene til offentlige tjenester er strengere enn til private](#kravene-til-offentlige-tjenester-er-strengere-enn-til-private)
   * [Kurset Universell utforming av IKT for utviklere og testledere er passende for utviklerne våre](#kurset-universell-utforming-av-ikt-for-utviklere-og-testledere-er-passende-for-utviklerne-vare)
     + [Det beste kurset fagleder for universell utforming i Knowit Experience Oslo har prøvd](#det-beste-kurset-fagleder-for-universell-utforming-i-knowit-experience-oslo-har-provd)
-    + [Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene](#eirik-vageskar-mener-kurset-er-bra-basert-pa-stikkprover-fra-modulene)
+    + [Eirik Vågeskar og Brynje Nordli mener kurset er bra basert på stikkprøver fra modulene](#eirik-vageskar-og-brynje-nordli-mener-kurset-er-bra-basert-pa-stikkprover-fra-modulene)
       - [Utviklerrettet og lærerikt](#utviklerrettet-og-laererikt)
       - [Skjønnhetsfeilene er ikke nok til å vippe det av pinnen](#skjonnhetsfeilene-er-ikke-nok-til-a-vippe-det-av-pinnen)
   * [Et selvlæringkurs kan være mindre morsomt enn live-kurs, men mer fleksibelt](#et-selvlaeringkurs-kan-vaere-mindre-morsomt-enn-live-kurs-men-mer-fleksibelt)
@@ -94,7 +94,7 @@ Ta kontakt med Eirik Vågeskar (eirik.vageskar@knowit.no), så får vi ordning p
 
 ## Målbart utfall: Alle skal bestå en enkel kunnskapsprøve
 
-De som utvikler webapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
+De som utvikler mobil- og webapplikasjoner i Knowit Objectnet <em>må</em> ha god kunnskap i universell utforming.
 
 UU-kunnskap er et så stort konkurransefortrinn at det vel anvendt tid å bruke en time på å bevise kunnskapen når man først har tilegnet seg den.
 
@@ -143,7 +143,7 @@ Han kan delegere ansvaret dersom han ønsker.
 
 ## Bakgrunn: Alle må kunne UU. Dette kurset er det beste alternativet vi kjenner til.
 
-### <em>Alle</em> som lager webapper skal kunne <em>mye</em> om universell utforming
+### <em>Alle</em> som lager mobil- og webapper skal kunne <em>mye</em> om universell utforming
 
 #### Lovgivning og sunn fornuft krever det
 
@@ -153,7 +153,7 @@ Digitale tjenester som følger universell utforming (UU) blir stadig viktigere:
 - Produktene vi lager er ofte en erstatning for en eldre, ikke-digital tjeneste.
   Erstatninger bør <em>i det minste</em> kunne brukes av alle som kunne brukt en ikke-digital versjon – og helst enda flere.
 
-Det er viktig at alle frontendutviklere i Knowit leverer kode som oppfyller de lovgitte kravene til universell utforming.
+Det er viktig at alle mobil- og webutviklere i Knowit leverer kode som oppfyller de lovgitte kravene til universell utforming.
 Ellers bryter det vi leverer loven på kundens vegne.
 
 #### UU-kunnskap er et konkurransefortrinn
@@ -167,7 +167,7 @@ Ved å være flinke på UU, får vi et konkurransefortrinn.
 #### Universell utforming raser sammen om ikke alle teammedlemmer følger det
 
 I praksis er det svært vanskelig å legge ansvaret for universell utforming på et teammedlem.
-Derfor må alle som jobber som frontend- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
+Derfor må alle som jobber som mobil-, web- og fullstack-programmerer ha en viss mengde grunnkunnskaper.
 
 ### Kunnskapsprøven fra <cite>Universell utforming av IKT for utviklere og testledere<cite> er passende for våre formål
 
@@ -199,11 +199,12 @@ Det var hun som først anbefalte oss kurset <cite>[Universell utforming av IKT f
 >
 > – Silje Tjomlid i direktemeldinger med Eirik Vågeskar på Slack
 
-#### Eirik Vågeskar mener kurset er bra basert på stikkprøver fra modulene
+#### Eirik Vågeskar og Brynje Nordli mener kurset er bra basert på stikkprøver fra modulene
 
 Eirik Vågeskar er fagområdesjef for frontend og frontendutvikler i Knowit Objectnet Oslo.
-Han har tatt deler av <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> etter Siljes anbefaling.
-Han mener kurset er bra nok til at det er verdt utviklernes tid.
+Brynje Nordli er fagområdesjef for og _principal engineer_ i mobilutvikling – også han i Knowit Objectnet Oslo.
+De har tatt deler av <cite>[Universell utforming av IKT for utviklere og testledere](https://kurs-laeringsplattformen.difi.no/mod/scorm/view.php?id=316)</cite> etter Siljes anbefaling.
+De mener kurset er bra nok til at det er verdt utviklernes tid.
 
 ##### Utviklerrettet og lærerikt
 
