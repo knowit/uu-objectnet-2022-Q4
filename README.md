@@ -8,9 +8,43 @@ Dokumentet er åpent for innspill frem til 12. september 2022.
 
 Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
 
-[//]: # (Regenerate this table of contents and format it using `npx markdown-toc -i README.md`)
+## Oppsummering
 
-## Innholdsfortegnelse og oppsummering
+### Kursing
+
+Dette dokumentet beskriver et kurstilbud til de ansatte i Knowit Objectnet.
+Kursets tema er «universell utforming for webutviklere».
+Hovedmålgruppen er webutviklere, men kurset er åpent for alle ansatte.
+
+Vi bruker et kurs som man _kan_ ta alene.
+Hvis man ønsker eller er nødt til å ta kurset alene, kan man det.
+Siden mange foretrekker å lære sammen med andre, har vi også et tilbud om å gjennomføre kurset i fellesskap.
+Felles gjennomføring skjer på formiddagene i uke 45 (7.–11. november) 2022.
+
+### Kunnskapsprøve og bevis
+
+Kurset avsluttes med en prøve.
+Prøven gir et kursbevis når man består den.
+Hvis man har nok kunnskap til å bestå prøven uten kursing, kan man selvsagt ta prøven uten å ta kurset.
+
+### Kurset er frivillig; webutviklerne vet selv om de trenger det
+
+Både kurset og prøven frivillig.
+
+Vi vet at de ansatte i Knowit Objectnet legger mye stolthet i fagkunnskapen sin.
+Alle webutviklere i Knowit Objectnet er kjent med at universell utforming er et konkurransefortrinn for en selv og for firmaet.
+Fagledelsen har også informert om at UU-kravene er blitt skjerpet i 2022.
+
+En motivert deltaker skal kunne gjennomføre kurset:
+Man kan delta sammen med andre eller alene, og på det tidspunktet som passer en.
+Alle i Objectnet har 8 timer fagtid de kan bruke på det.
+
+Det eneste som gjenstår å se er om vi har valgt et kurs som deltakerne opplever som nyttig.
+Dersom kurset ikke faller i smak, må vi finne noe bedre.
+
+[//]: # "Regenerate this table of contents and format it using `npx markdown-toc -i README.md`"
+
+## Innholdsfortegnelse
 
 <!-- prettier-ignore-start -->
 
