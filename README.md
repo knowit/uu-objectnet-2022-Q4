@@ -106,7 +106,8 @@ Kurset ender i en kunnskapsprøve med 40 flervalgsspørsmål.
 
 ### Man kan ta prøven sammen med andre eller alene
 
-De fleste vil ta denne prøven som avslutning på et UU-kurs som vi planlegger å arrangere. Hvis man kan mye om UU fra før og er usikker på om man trenger opplæringen, kan man gjennomføre prøven på egen hånd.
+De fleste vil ta denne prøven som avslutning på et UU-kurs som vi planlegger å arrangere.
+Hvis man kan mye om UU fra før og er usikker på om man trenger opplæringen, kan man gjennomføre prøven på egen hånd.
 
 ## Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller på egen hånd
 
