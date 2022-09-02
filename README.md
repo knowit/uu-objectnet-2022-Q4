@@ -19,7 +19,6 @@ Tiltakene skal være utført senest innen juni 2023, og helst innen desember 202
 - [Målbart utfall: Alle skal bestå en enkel kunnskapsprøve](#malbart-utfall-alle-skal-besta-en-enkel-kunnskapsprove)
   * [Vi gjenbruker prøven for tilsvarende ansatte i det offentlige](#vi-gjenbruker-proven-for-tilsvarende-ansatte-i-det-offentlige)
   * [Man kan ta prøven sammen med andre eller alene](#man-kan-ta-proven-sammen-med-andre-eller-alene)
-    + [Tidsfrist for å bestå](#tidsfrist-for-a-besta)
 - [Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd](#tiltak-for-a-na-malet-gjennomfore-kurs-innen-nyttar-sammen-eller-paegen-hand)
   * [Gjennomføre kurset på egen hånd](#gjennomfore-kurset-pa-egen-hand)
   * [Felles kurs: UU-uka](#felles-kurs-uu-uka)
@@ -64,12 +63,6 @@ Kurset ender i en kunnskapsprøve med 40 flervalgsspørsmål.
 ### Man kan ta prøven sammen med andre eller alene
 
 De fleste vil ta denne prøven som avslutning på et UU-kurs som vi planlegger å arrangere. Hvis man kan mye om UU fra før og er usikker på om man trenger opplæringen, kan man gjennomføre prøven på egen hånd.
-
-#### Tidsfrist for å bestå
-
-Alle relevante utviklere må gjennomføre innen en viss frist.
-Fristen setter vi senere.
-Fagsjefen for frontend tar ansvar å følge opp gjennom vedkommendes gruppeleder.
 
 ## Tiltak for å nå målet: Gjennomføre kurs innen nyttår, sammen eller påegen hånd
 
