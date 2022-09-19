@@ -4,8 +4,6 @@
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
-Dokumentet er åpent for innspill frem til 12. september 2022.
-
 Tiltakene skal være utført senest innen juni 2023, og helst innen desember 2022.
 
 ## Oppsummering
