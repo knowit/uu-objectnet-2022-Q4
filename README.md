@@ -1,6 +1,6 @@
 <article lang="nb-NO">
 
-# Forslag til innspill: Frivillig kursing og prøve i universell utforming for utviklere i Knowit Objectnet høsthalvåret 2022
+# Frivillig kursing og prøve i universell utforming for utviklere i Knowit Objectnet høsthalvåret 2022
 
 <i>Foreslått av Eirik Vågeskar.</i>
 
